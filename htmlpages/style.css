@@ -1,0 +1,96 @@
+body {
+  font-family: Monserrat, sans-serif;
+  background-color: #1a1a1a;
+  color: white;
+}
+
+.menu {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  background-color: #ff6600;
+  text-align: center;
+  padding: 10px;
+}
+
+.menu li {
+  display: inline;
+  list-style: none;
+  margin-right: 60px;
+}
+
+.menu li a {
+  text-decoration: none;
+  color: #1a1a1a;
+}
+
+.menu li a:hover {
+  text-decoration: none;
+  color: #ff6600;
+  background: white;
+}
+
+.rest {
+  margin-top: 100px;
+}
+
+.begin {
+  text-align: center;
+}
+
+.hobby {
+  margin: auto;
+  width: 50%;
+  margin-top: 40px;
+}
+
+.places {
+  margin: auto;
+  width: 50%;
+  margin-top: 40px;
+}
+
+.ulstyle {
+  border: 2px solid white;
+  border-radius: 10px;
+  list-style: circle;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+#title {
+  font-family: Monserrat, sans-serif;
+  color: #ff6600;
+}
+
+#red {
+  color: red;
+}
+
+img {
+  height: 150px;
+  display: inline;
+  margin-right: 20px;
+  border: 2px solid white;
+  border-radius: 20px;
+}
+
+a{
+  margin-top: -40px;
+  color: #ff6600;
+}
+
+a:hover {
+  color: black;
+  background: #ff6600;
+  border-radius: 10px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.copy{
+  margin: auto;
+  width: 50%;
+  color: white;
+}

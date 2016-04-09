@@ -1,0 +1,62 @@
+body {
+  text-align: center;
+  font-family: Monserrat, sans-serif;
+  background-color:   #1a1a1a;
+  color: white;
+  padding: 20px;
+  }
+
+.menu {
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  width: 100%;
+  background-color: #ff6600;
+  text-align: center;
+  padding: 10px;
+}
+
+.menu li {
+  display: inline;
+  list-style: none;
+  margin-right: 60px;
+}
+
+.menu li a {
+  text-decoration: none;
+  color: #1a1a1a;
+}
+
+.menu li a:hover {
+  text-decoration: none;
+  color: #ff6600;
+  background: white;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.main {
+  margin-top: 60px;
+}
+
+.padd {
+  margin: auto;
+  width: 50%;
+  border: 2px solid white;
+  border-radius: 10px;
+  padding: 20px 0px 20px 20px;
+}
+
+h2 {
+  color: #ff6600;
+}
+
+#red {
+  color: red;
+}
+
+.copy{
+  margin: auto;
+  width: 50%;
+  color: white;
+}
